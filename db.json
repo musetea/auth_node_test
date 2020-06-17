@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "__gLwGlJa",
+      "name": "뮤즈티",
+      "email": "a@email.com",
+      "password": "1230"
+    },
+    {
+      "id": "pDmlw27rq",
+      "name": "멍텅구리",
+      "email": "b@email.com",
+      "password": "1230"
+    },
+    {
+      "id": "NIGkB5FM0",
+      "name": "b",
+      "email": "b@email.com",
+      "password": "1230"
+    }
+  ],
+  "topics": [
+    {
+      "id": "knXX7IRZK",
+      "title": "토픽",
+      "description": "토픽이란...",
+      "userId": "__gLwGlJa"
+    },
+    {
+      "id": "_Ii7uJUhd",
+      "title": "토픽이란",
+      "description": "어쩌구 저쩌구 ",
+      "userId": "__gLwGlJa"
+    },
+    {
+      "id": "VwDJaUgp1",
+      "title": "토픽",
+      "description": "디스크립션",
+      "userId": "__gLwGlJa"
+    },
+    {
+      "id": "BVVbtH1Tc",
+      "title": "나의 아저씨 ",
+      "description": "이지안",
+      "userId": "__gLwGlJa"
+    }
+  ]
+}
