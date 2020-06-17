@@ -72,7 +72,7 @@ router.get('/:topicId', (req, res) => {
     else{
         console.log(req.user);
         
-        const userName = req.user.userName;
+        const userName = req.user.name;
         const reqId = req.params.topicId;
         const topic = db.get('topics').find({id:reqId}).value();
         console.log(topic);
